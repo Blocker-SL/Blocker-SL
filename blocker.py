@@ -22,7 +22,7 @@ os.system("figlet DDos Attack")
 CorrectUsername= "Kurdm"
 CorrectUsername= "Blockerm"
 print
-print "KURDISH
+print "KURDISH "
 print "Baxerbey "
 print "Author   : Blocker SL"
 print
