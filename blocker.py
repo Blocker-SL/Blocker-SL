@@ -19,8 +19,22 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDos Attack")
-CorrectUsername= "Kurdm"
-CorrectUsername= "Blockerm"
+
+CorrectUsername = "Kurdm"
+CorrectPassword = "Blockerm"
+
+loop = 'true'
+while (loop == 'true'):
+    username = raw_input("\033[1;91m🔐 \x1b[1;91mTool Username \x1b[1;91m»» \x1b[1;93m")
+    if (username == CorrectUsername):
+    	password = raw_input("\033[1;94m🔐 \x1b[1;91mTool Password \x1b[1;91m»» \x1b[1;92m")
+        if (password == CorrectPassword):
+            print "Logged in successfully as " + username #Dev:love_hacker
+	    time.sleep(2)
+            loop = 'false'
+        else:
+            print "\033[1;91mWrong Password"
+
 print
 print "KURDISH "
 print "Baxerbey "
