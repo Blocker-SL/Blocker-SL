@@ -23,12 +23,13 @@ print
 print "KURDISH "
 print "Baxerbey "
 print "Author   : Blocker SL"
-print
+print "Telegram: https://t.me/fri3nds69"
 ip = raw_input("IP Bnusa : ")
 port = input("Port bnusa      : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
+print "hersh daspedakat "
 print "[                    ] 0% "
 time.sleep(1)
 print "[=====               ] 25%"
