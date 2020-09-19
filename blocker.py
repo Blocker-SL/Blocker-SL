@@ -19,6 +19,11 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDos Attack")
+print
+print "KURDISH "
+print "Baxerbey "
+print "Author   : Blocker SL"
+print
 
 CorrectUsername = "Kurdm"
 CorrectPassword = "Blockerm"
@@ -35,11 +40,6 @@ while (loop == 'true'):
         else:
             print "\033[1;91mWrong Password"
 
-print
-print "KURDISH "
-print "Baxerbey "
-print "Author   : Blocker SL"
-print
 ip = raw_input("IP Bnusa : ")
 port = input("Port bnusa      : ")
 
