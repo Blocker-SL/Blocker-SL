@@ -19,6 +19,8 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDos Attack")
+CorrectUsername= "Kurdm"
+CorrectUsername= "Blockerm"
 print
 print "KURDISH
 print "Baxerbey "
